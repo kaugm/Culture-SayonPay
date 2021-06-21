@@ -22,10 +22,10 @@ We used a simple javascript function that ran when users clicked the *take surve
 
 ### Analysis Performed
 
-Descriptive Statistics
-Bivariate Correlation
-Pearson Correlation
-Chi-Squared Test
+Descriptive Statistics\
+Bivariate Correlation\
+Pearson Correlation\
+Chi-Squared Test\
 Logistic Regression (5 different models)
 
 
