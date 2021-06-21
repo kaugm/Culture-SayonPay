@@ -1,5 +1,5 @@
 # Culture-SayonPay
-Thesis for Msc Global Strategic Management
+Thesis for double Master's program at UVA & ESADE
 
 The .DOCX file is the final thesis\
 The .PPT file is the thesis presentation
