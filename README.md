@@ -31,6 +31,6 @@ Chi-Squared Test\
 Logistic Regression (5 different models)
 
 
-The remnants of the poorly coded website we used is here: [Thesis Website](https://github.com/kaugm/Thesis-Website)\
+The remnants of the poorly coded website we used is here: [Thesis Website](https://github.com/kaugm/Thesis-Website)
 
 
