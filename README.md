@@ -1,6 +1,8 @@
 # Culture-SayonPay
 Thesis for Msc Global Strategic Management
 
+The .DOCX file is the final thesis\
+The .PPT file is the thesis presentation
 
 ### How do Individualist and Collectivist Ideals Influence Investor Say-On-Pay Votes for Companies
 
@@ -18,5 +20,15 @@ We used a simple javascript function that ran when users clicked the *take surve
               window.location = url; // redirect
           }
 
+### Analysis Performed
+
+Descriptive Statistics
+Bivariate Correlation
+Pearson Correlation
+Chi-Squared Test
+Logistic Regression (5 different models)
+
+
+The remnants of the poorly coded website we used is here: [Thesis Website](https://github.com/kaugm/Thesis-Website)\
 
 
